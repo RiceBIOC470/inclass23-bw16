@@ -1,3 +1,10 @@
+%GB comments
+1 100
+2 80 not linear, and the oscillations are lost because the upstream inhibitors are at equal levels and will remove downstream gene activation symetrically. 
+3 70 did not consider the values in which represses the osccilattory behavior. 
+4 100
+overall 88
+
 %In this directory, you will find a derivaitve function representing a
 %three gene circuit in which each gene product represses the transcription of another
 %gene in a cycle. This simple three gene circuit displays oscillations and was one
